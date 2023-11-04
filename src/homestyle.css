@@ -1,0 +1,19 @@
+.h_container{
+    background-color: #660708;
+    box-shadow: 0 0 10px white;
+}
+.s_container{
+    background-color: #660708;
+    box-shadow: 0 0 10px white;
+    border-radius: 5px;
+}
+i{
+    cursor: pointer;
+}
+.fontSize{
+    font-size: 2rem;
+}
+.transaction_style{
+    box-shadow: 0 0 5px white;
+    border-radius: 5px;
+}

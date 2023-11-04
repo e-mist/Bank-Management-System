@@ -1,0 +1,11 @@
+.main_container{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.login_container{
+    background-color: #660708;
+    border-radius: 5px;
+    box-shadow: 0 0 10px white;
+    max-width: 500px;
+}
